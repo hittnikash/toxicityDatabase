@@ -1,0 +1,124 @@
+/*  */
+
+html {
+    background-color: #06acb1;
+}
+
+h1 {
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center; 
+    font-weight: 100;
+    text-transform: uppercase;
+    margin-top: 10%;
+    color:#fff;
+    letter-spacing: 10px;
+}
+
+.instant-search {
+    position: relative;
+    max-width: 250px;
+  }
+  
+  .instant-search,
+  .instant-search__input {
+    font-family: sans-serif;
+   
+  }
+  
+  .instant-search,
+  .instant-search * {
+    transition: background 0.15s, box-shadow 0.15s;
+  }
+  
+  .instant-search:focus-within {
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
+  }
+  
+  .instant-search--loading::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 2px;
+    border-radius: 5px;
+    animation: searchIndicator 0.5s infinite ease-in-out;
+  }
+  
+  @keyframes searchIndicator {
+    0% {
+      width: 15%;
+    }
+    50% {
+      width: 100%;
+    }
+    100% {
+      width: 15%;
+    }
+  }
+  
+  .instant-search,
+  .instant-search__input-container {
+    border-radius: 5px;
+  }
+  
+  .instant-search__input-container {
+    display: inline-flex;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 6px;
+    background: #eeeeee;
+  }
+  
+  .instant-search__input-container:focus-within {
+    background: #ffffff;
+  }
+  
+  .instant-search__input {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    width: 100%;
+    padding: 0 6px;
+    background: transparent;
+  }
+  
+  #myInput {
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 90%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+    margin-top: 10%;
+    margin-left: 5%;
+  }
+  
+  #myTable {
+    border-collapse: collapse; /* Collapse borders */
+    width: 100%; /* Full-width */
+    border: 1px solid #ddd; /* Add a grey border */
+    font-size: 18px; /* Increase font-size */
+    background-color: #fff;
+
+  }
+  
+  #myTable th, #myTable td {
+    text-align: left; /* Left-align text */
+    padding: 10px; /* Add padding */
+    
+  }
+  
+  #myTable tr {
+    /* Add a bottom border to all table rows */
+    border-bottom: 1px solid #ddd;
+  
+  }
+  
+  #myTable tr.header, #myTable tr:hover {
+    /* Add a background color to the table header and on hover */
+    background-color: #06acb1;
+    color: #fff;
+    text-transform: uppercase;
+  
+  }

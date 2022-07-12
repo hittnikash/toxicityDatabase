@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="normalize.css">
+<link rel="stylesheet" href="styles.css">
+<title>Toxin Database</title>
+<style>
+</style>
+</head>
+<body>
+   
+     <h1>Toxicity <br>Database</h1>
+    
+    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Substance...">
+
+    <table id="myTable">
+      <tr class="header">
+        <th style="width:30%;">Chemical</th>
+        <th style="width:30%;">Effects</th>
+        <th style="width:30%;">Toxicity</th>
+        
+      </tr>
+      <tr>
+        <td>Asbestos</td>
+        <td>Carcinogenic, Respiratory Issues</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Bisphenol A</td>
+        <td>Hormone Disruption</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Bisphenol S</td>
+        <td>Hormone Disruption</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Formaldehyde</td>
+        <td>Carcinogenic</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Heavy Metals</td>
+        <td>Carcinogenic, Developmental Disorders</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Hexane</td>
+        <td>Nerve Damage</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Hexavalent <br>Chromium</td>
+        <td>Legacy Pollutant</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Lead</td>
+        <td>Developmental Disorders/Delays, </td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Methylene<br> chloride</td>
+        <td>Harmful to those with weak Immune systmes</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>NMP <br>(N-Methylpyrrolidone)</td>
+        <td>Developmental Disorders, Miscarriages</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>NPEs <br>(nonylphenol ethoxylates)</td>
+        <td>Developmental Disorders, Miscarriages</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Organotins</td>
+        <td>Hormone Disruption</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>PCBs & DDT</td>
+        <td>Legacy Pollutant</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Persistent,<br> Bioaccumulative and Toxic Chemicals (PBTs)</td>
+        <td>Legacy Pollutant</td> 
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>PFAS <br>(per- and polyfluoroalkyl substances)</td>
+        <td>Carcinogenic</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Phthalates</td>
+        <td>Carcenogenic Hormone Disruption, birth Defects</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Styrene</td>
+        <td>Carcenogenic</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>TCE <br>(Trichloroethylene)</td>
+        <td>Carcenogenic</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Flame <br>Retardants</td>
+        <td>Carcenogenic, Reproductive & Nervous System Damage</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Triclosan</td>
+        <td>Hormone Disruption</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Vinyl<br> Chloride</td>
+        <td>Legacy Pollutant</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Parabens <br>(methylparaben)</td>
+        <td>Hormonal Disruption</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Parabens <br>(propylparaben)</td>
+        <td>Hormonal Disruption</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Parabens <br>(butylparaben)</td>
+        <td>Hormonal Disruption</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td>Sodium lauryl <br>sulphate (SLS)</td>
+        <td>Skin Irritant</td>
+        <td>Toxic</td> 
+      </tr>
+      <tr>
+        <td>Polyethylene <br>glycols (PEGs)</td>
+        <td>Carcinogenic</td>
+        <td>Toxic</td> 
+      </tr>
+      <tr>
+        <td>1,4-dioxane &<br> ethylene oxid</td>
+        <td>Carcinogenic</td>
+        <td>Toxic</td> 
+      </tr>
+      <tr>
+        <td>Imidazolidinyl <br>urea</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Triethanolamine<br> (TEA)</td>
+        <td>Skin Irritant</td>
+        <td>Toxic</td> 
+      </tr>
+      <tr>
+        <td>Benzophenone-3</td>
+        <td>Hormonal Disruption, Skin Irritant, Respiratory Issues</td>
+        <td>Toxic</td> 
+      </tr>
+      <tr>
+        <td>Ethylhexyl<br> methoxycinnamate,<br> (EHMC)  </td>
+        <td>Hormonal Disruption, Skin Irritant, Respiratory Issues</td>
+        <td>Toxic</td> 
+      </tr>
+      <tr>
+        <td>Butyl <br>methoxydibenzoylmethane,<br> (BMDBM)</td>
+        <td>Hormonal Disruption, Skin Irritant, Respiratory Issues</td>
+        <td>Toxic</td> 
+      </tr>
+      <tr>
+        <td>Synthetic<br> colourants</td>
+        <td>Carcinogenic</td>
+        <td>Toxic</td>  
+      </tr>
+      <tr>
+        <td>Synthetic <br>fragrances (Parfum)</td>
+        <td>Possible</td>
+        <td>Unknown</td> 
+      </tr>
+      <tr>
+        <td>Polyacrylamides</td>
+        <td>Carcinogenic</td>
+        <td>Toxic</td> 
+      </tr>
+      <tr>
+        <td>acrylamide </td>
+        <td>Carcinogenic</td>
+        <td>Toxic</td> 
+      </tr>
+      <tr>
+        <td>Hydroquinone</td>
+        <td>Skin Irritant, Inflammatory Reactions</td>
+      </tr>
+      <tr>
+        <td>Phthalates <br>(phthalic acid esters)</td>
+        <td>Carcinogenic, Birth Defects, Respiratory Issues</td>
+      </tr>
+      <tr>
+        <td>Triclosan</td>
+        <td>Imune Responses, Cardiovascular Functions</td>
+        <td>Toxic</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td></td>
+      </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+    </table>
+   <footer>
+
+   </footer>
+
+   <script src= "app.js"></script>
+  
+</body>
+</html>
