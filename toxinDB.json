@@ -1,0 +1,1473 @@
+[
+   {
+      "id": 1,
+      "chemical": "Asbestos",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic"
+   },
+   {
+   "id": 2,
+      "chemical": "Meow",
+      "toxicity": "Toxic",
+      "effects": "K100"
+     },
+    {
+   "id":3,
+     "chemical": "Asbestos",
+     "toxicity": "Toxic",
+      "effects": "Carcinogenic, Respiratory Issues"
+    
+    },
+    {
+    "id": 4,
+     "chemical": "Bisphenol A",
+     "toxicity": "Toxic",
+     "effects": "Hormone Disruptor"
+   },
+   { 
+   "id": 5,
+     "chemical": "Bisphenol S",
+     "toxicity": "Toxic",
+     "effects": "Hormone Disruption"
+    },
+    {
+   "id": 6,
+     "chemical": "Formaldehyde <br>(Formalin)",
+     "toxicity": "Toxic",
+     "effects": "Carcinogenic"
+    },
+    {
+  "id": 7,
+     "chemical": "Heavy Metals",
+     "toxicity": "Toxic",
+     "effects": "Carcinogenic, Developmental Disorders"
+    },
+
+    {
+   "id": 8,
+     "chemical": "Hexane",
+     "toxicity": "Toxic",
+     "effects": "Nerve Damage"
+    },
+    {
+   "id": 9,
+     "chemical": "Hexavalent Chromium",
+     "toxicity": "Toxic",
+     "effects": "Legacy Pollutant"
+    },
+    {
+   "id": 10,
+      "chemical": "Lead",
+      "toxicity": "Toxic",
+      "effects": "Developmental Disorders/Delays"
+    },
+    {
+   "id": 11,
+      "chemical": "Methylene chloride",
+      "toxicity": "Toxic",
+      "effects": "Harmful to those with weak Immune systmes"
+    },
+    {
+   "id": 12,
+      "chemical": "NMP <br>(N-Methylpyrrolidone)",
+      "toxicity": "Toxic",
+      "effects": "Developmental Disorders, Miscarriages"
+    },
+    {
+   "id": 13,
+      "chemical": "NPEs <br>(nonylphenol ethoxylates)",
+      "toxicity": "Toxic",
+      "effects": "Developmental Disorders, Miscarriages"
+    },
+    {
+      "id": 14,
+      "chemical": "Organotins",
+      "toxicity": "Toxic",
+      "effects": "Hormone Disruption"
+    },
+    {
+   "id": 15,
+      "chemical": "PCBs & DDT",
+      "toxicity": "Toxic",
+      "effects": "Legacy Pollutant"
+    },
+    {
+   "id": 16,
+      "chemical": "Persistent,<br> Bioaccumulative and Toxic,<br> Chemicals (PBTs)",
+      "toxicity": "Toxic",
+      "effects": "Legacy Pollutant"
+    },
+    {
+   "id": 17,
+     "chemical": "PFAS <br>(per & polyfluoroalkyl substances)",
+     "toxicity": "Toxic",
+      "effects": "Carcinogenic"
+    },
+    {
+   "id": 18,
+      "chemical": "Phthalates",
+      "toxicity": "Toxic",
+      "effects": "Carcenogenic Hormone Disruption, birth Defects"
+    },
+    {
+   "id": 19,
+      "chemical": "Styrene",
+      "toxicity": "Toxic",
+      "effects": "Carcenogenic"
+    },
+    {
+   "id": 20,
+      "chemical": "TCE <br>(Trichloroethylene)",
+      "toxicity": "Toxic",
+      "effects": "Carcenogenic"
+    },
+    {
+   "id": 21,
+      "chemical": "Flame Retardants",
+      "toxicity": "Toxic",
+       "effects": "Carcenogenic, Reproductive & Nervous System Damage"
+    },
+    {
+   "id": 22,
+      "chemical": "Triclosan",
+      "toxicity": "Toxic",
+      "effects": "Hormone Disruption"
+
+    },
+    {
+   "id": 23,
+      "chemical": "Vinyl Chloride",
+      "toxicity": "Toxic",
+      "effects": "Legacy Pollutant"
+    },
+    {
+   "id": 24,
+      "chemical": "Parabens <br>(methylparaben)",
+      "toxicity": "Toxic",
+      "effects": "Hormonal Disruption"
+    },
+    {
+   "id": 25,
+      "chemical": "Parabens <br>(propylparaben)",
+      "toxicity": "Toxic",
+      "effects": "Hormonal Disruption"
+    },
+    {
+   "id": 26,
+      "chemical": "Parabens <br>(butylparaben)",
+      "toxicity": "Toxic",
+      "effects": "Hormonal Disruption"
+    },
+    {
+   "id": 27,
+      "chemical": "Sodium lauryl sulphate <br>(SLS)",
+      "toxicity": "Toxic",
+      "effects": "Skin Irritant"
+    },
+    {
+   "id": 28,
+      "chemical": "Polyethylene<br> glycols (PEGs)",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic"
+    },
+    {
+   "id": 29,
+      "chemical": "1,4-dioxane & ethylene oxid",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic"
+    },
+    {
+   "id": 30,
+      "chemical": "Imidazolidinyl urea",
+      "toxicity": "Toxic",
+      "effects": ""
+    },
+    {
+   "id": 32,
+      "chemical": "Triethanolamine <br>(TEA)",
+      "toxicity": "Toxic",
+      "effects": "Skin Irritant"
+    },
+    {
+   "id": 33,
+      "chemical": "Benzophenone-3",
+      "toxicity": "Toxic",
+      "effects": "Hormonal Disruptor, Skin Irritant, Respiratory Issues"
+    },
+    {
+   "id": 34,
+      "chemical": "Ethylhexyl<br> methoxycinnamate, (EHMC)" , 
+      "toxicity": "Toxic",
+      "effects": "Hormonal Disruptor, Skin Irritant, Respiratory Issues"
+    },
+    {
+    "id": 35,
+      "chemical": "Butyl <br>methoxydibenzoylmethane,<br> (BMDBM)",
+      "toxicity": "Toxic",
+      "effects": "Hormonal Disruptor, Skin Irritant, Respiratory Issues"
+    },
+    {
+    "id": 36,
+      "chemical": "Synthetic colourants",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic"
+    },
+    {
+    "id": 37,
+      "chemical": "Synthetic fragrances <br>(Parfum)",
+      "toxicity": "Unknown",
+      "effects" : "Unknown"
+    },
+    {
+    "id": 38,
+      "chemical": "Polyacrylamides",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic"
+    },
+    {
+    "id": 39,
+      "chemical": "acrylamide", 
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic"
+    },
+    {
+    "id": 40,
+      "chemical": "Hydroquinone",
+      "toxicity": "Toxic",
+      "effects": "Skin Irritant, Inflammatory Reactions"
+    },
+    {
+    "id": 41,
+      "chemical": "Phthalates <br>(phthalic acid esters)",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic, Birth Defects, Respiratory Issues"
+    },
+    {
+    "id": 42,
+      "chemical": "Triclosan",
+      "toxicity": "Toxic",
+      "effects": "Immune Responses, Cardiovascular Functions"
+    },
+    {
+    "id": 43,
+      "chemical": "Acetaldehyde",
+      "toxicity": "Toxic",
+      "effects": "Skin Irritant, Respiratory Issues, Reproductive Issues, Miscarriages"
+    },
+    {
+    "id": 44,
+      "chemical": "Acrolein <br>(2-Propenal)",
+      "toxicity": "Highly Toxic",
+      "effects": "respiratory, ocular, & gastrointestinal irritations"
+    },
+    {
+    "id": 45,
+      "chemical": "Acrylyl Chloride",
+      "toxicity": "Highly Toxic",
+      "effects": "respiratory, gastrointestinal irritations, Skin Irritant, Legacy Pollutant"
+    },
+    {
+    "id": 46,
+      "chemical": "Allyl Chloride", 
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 47,
+      "chemical": "Allylamine",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 48,
+      "chemical": "Alkylaluminums",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 49,
+      "chemical": "Ammonia,<br> Anhydrous",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 50,
+      "chemical": "Ammonia solutions<br>(>44% ammonia by weight)",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 51,
+      "chemical": "Ammonium <br>Perchlorate",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 52,
+      "chemical": "Ammonium <br>Permanganate",
+      "toxicity": "Highly Toxic",
+      "effects": "Skin, respiratory irritants"
+      
+    },
+    {
+    "id": 53,
+      "chemical": "Arsine<br>(also called Arsenic Hydride)",
+       "toxicity": "Highly Toxic",
+       "effects": "Respiratory Irritant"
+      
+    },
+    {
+    "id": 54,
+      "chemical": "Bis<br>(Chloromethyl) Ether",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory Irritant, Carcenogenic"
+    },
+    {
+    "id": 55,
+      "chemical": "Boron Trichloride",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, occular, Skin Irritant"
+    },
+    {
+    "id": 56,
+      "chemical": "Boron Trifluoride",
+       "toxicity": "Highly Toxic",
+       "effects": "Skin, Occular & pulmonary Irritant"
+    },
+    {
+    "id": 57,
+      "chemical": "Bromine",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 58,
+      "chemical": "Bromine Chloride",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Skin & Occular Irritant"
+    },
+    {
+    "id": 59,
+      "chemical": "Bromine<br> Pentafluoride",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, gastrointestinal, skin & Occular Irritant"
+    },
+    {
+    "id": 60,
+      "chemical": "Bromine Trifluoride",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Skin, Occular Irritant"
+    },
+    {
+    "id": 61,
+      "chemical": "3-Bromopropyne<br>(also called Propargyl Bromide)",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Skin, Occular, pulmonary irritant"
+    },
+    {
+    "id": 62,
+      "chemical": "Butyl<br> Hydroperoxide <br>(Tertiary)",
+      "toxicity": "Highly Toxic",
+      "effects": "Skin & Occular Irritant"
+    },
+    {
+    "id": 63,
+      "chemical": "Butyl <br>Perbenzoate <br>(Tertiary)",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory Irritant, Can cause mutations."
+    },
+    {
+    "id": 64,
+      "chemical": "Carbonyl Chloride <br>(see Phosgene)",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Occular. Skin & pulmonary Irritant"
+    },
+    {
+    "id": 65,
+      "chemical": "Carbonyl Fluoride",
+       "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Skin & Occular Irritant"
+    },
+    {
+    "id": 66,
+      "chemical": "Cellulose Nitrate <br>(concentration >12.6% nitrogen)",
+      "toxicity": "Highly Toxic",
+      "effects": "Birth Defects, Miscarriages, gastrointestinal, respiratory, Reproductive irritant"
+    },
+    {
+    "id": 67,
+      "chemical": "Chlorine",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Occular, Skin Irritant"
+    },
+    {
+    "id": 68,
+      "chemical": "Chlorine Dioxide",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Skin, Occular & pulmonary Irritant"
+    },
+    {
+    "id": 69,
+      "chemical": "Chlorine<br>Pentrafluoride",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Skin Irritant"
+    },
+    {
+    "id": 70,
+      "chemical": "Chlorine Trifluoride",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Skin, Occular & pulmonary Irritant"
+    },
+    {
+    "id": 71,
+      "chemical": "Chlorodiethylaluminum <br>(also called Diethylaluminum Chloride)",
+      "toxicity": "Highly Toxic",
+      "effects": "Respiratory, Skin, Occular & gastrointestinal irritant" 
+    },
+    {
+    "id": 72,
+      "chemical": "1-Chloro-2,4-Dinitrobenzene",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 73,
+      "chemical": "Chloromethyl <br>Methyl Ether",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 74,
+      "chemical": "Chloropicrin",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 75,
+      "chemical": "Chloropicrin &<br> Methyl Bromide mixture",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 76,
+      "chemical": "Chloropicrin &<br> Methyl Chloride mixture",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 77,
+      "chemical": "Cumene Hydroperoxide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 78,
+      "chemical": "Cyanogen",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 79,
+      "chemical": "Cyanogen Chloride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 80,
+      "chemical": "Cyanuric Fluoride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 81,
+      "chemical": "Diacetyl Peroxide <br>(Concentration >70%)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 82,
+      "chemical": "Diazomethane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 83,
+     "chemical": "Dibenzoyl Peroxide",
+     "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 84,
+      "chemical": "Diborane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 85,
+      "chemical": "Dibutyl Peroxide<br>(Tertiary)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 86,
+      "chemical": "Dichloro Acetylene",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 87,
+      "chemical": "Dichlorosilane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 88,
+      "chemical": "Diethylzinc",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 89,
+      "chemical": "Diisopropyl <br>Peroxydicarbonate",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 90,
+      "chemical": "Dilaluroyl Peroxide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 91,
+      "chemical": "Dimethyldichlorosilane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 92,
+      "chemical": "Dimethylamine, Anhydrous",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 93,
+      "chemical": "2,4-Dinitroaniline",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 94,
+      "chemical": "Ethyl Methyl Ketone Peroxide <br>(also Methyl Ethyl Ketone Peroxide; <br>concentration >60%)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 95,
+      "chemical": "Ethyl Nitrite",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 96,
+     "chemical": "Ethylamine",
+     "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 97,
+     "chemical": "Ethylene Fluorohydrin",
+     "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+   "id": 98,
+     "chemical": "Ethylene Oxide",
+     "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 99,
+      "chemical": "Ethyleneimine",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 100,
+      "chemical": "Fluorine",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 101,
+      "chemical": "Hydrogen Bromide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 102,
+      "chemical": "Furan",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 103,
+     "chemical": "Hexafluoroacetone",
+     "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 104,
+      "chemical": "Hydrochloric Acid, <br>Anhydrous",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 105,
+       "chemical": "Anhydrous",
+       "toxicity": "Highly Toxic",
+        "effects": ""
+    },
+    {
+    "id": 106,
+      "chemical": "Hydrogen Chloride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 107,
+      "chemical": "Hydrogen Cyanide,<br> Anhydrous",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 108,
+      "chemical": "Hydrogen Fluoride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 109,
+      "chemical": "Hydrogen Peroxide <br>(52% by weight or greater)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 110,
+    "chemical": "Hydrogen Selenide",
+    "toxicity": "Highly Toxic",
+     "effects": ""
+    },
+    {
+    "id": 111,
+      "chemical": "Hydrogen Sulfide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 112,
+      "chemical": "Hydroxylamine",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 113,
+      "chemical": "Iron, <br>Pentacarbonyl",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 114,
+      "chemical": "Isopropylamine",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 115,
+      "chemical": "Ketene",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 116,
+      "chemical": "Methacrylaldehyde",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 117,
+    "chemical": "Methacryloyl <br>Chloride",
+    "toxicity": "Highly Toxic",
+     "effects": ""
+    },
+    {
+    "id": 118,
+      "chemical": "Methacryloyloxyethyl<br> Isocyanate",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+   "id": 119,
+      "chemical": "Methyl <br>Acrylonitrile",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 120,
+      "chemical": "Methylamine, <br>Anhydrous",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 121,
+      "chemical": "Methyl Bromide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 122,
+      "chemical": "Methyl Chloride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 123,
+      "chemical": "Methyl <br>Chloroformate",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 124,
+    "chemical": "Methyl Ethyl Ketone Peroxide<br> (concentration >60%)",
+    "toxicity": "Highly Toxic",
+     "effects": ""
+    },
+    {
+    "id": 125,
+      "chemical": "Methyl Fluoroacetate",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 126,
+      "chemical": "Methyl Fluorosulfate",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 127,
+      "chemical": "Methyl Hydrazine",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 128,
+      "chemical": "Methyl Iodide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 129,
+      "chemical": "Methyl Isocyanate",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 130,
+      "chemical": "Methyl Mercaptan",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 131,
+      "chemical": "Methyl Vinyl Ketone",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 132,
+      "chemical": "Methyltrichlorosilane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 133,
+      "chemical": "Nickel Carbonly <br>(Nickel Tetracarbonyl)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+   "id": 134,
+      "chemical": "Nitric Acid <br>(94.5% by weight or greater)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 135,
+      "chemical": "Nitric Oxide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 136,
+      "chemical": "Nitroaniline <br>(para Nitroaniline)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 137,
+      "chemical": "Nitromethane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 138,
+      "chemical": "Nitrogen Dioxide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 139,
+      "chemical": "Nitrogen Oxides<br> (NO; NO2; N204; N203)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 140,
+      "chemical": "Nitrogen Tetroxide <br>(also called Nitrogen Peroxide)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 141,
+      "chemical": "Nitrogen Trifluoride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {  
+    "id": 142,
+      "chemical": "Nitrogen Trioxide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 143,
+      "chemical": "Oleum <br>(65% to 80% by weight; <br>also called Fuming Sulfuric Acid)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 144,
+      "chemical": "Osmium Tetroxid",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 145,
+     "chemical": "Oxygen Difluoride<br> (Fluorine Monoxide)",
+     "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 146,
+      "chemical": "Ozone",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 147,
+      "chemical": "Pentaborane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 148,
+      "chemical": "Peracetic Acid <br>(concentration >60% Acetic Acid; <br>also called Peroxyacetic Acid)",
+       "toxicity": "Highly Toxic",
+        "effects": ""
+    },
+    {
+    "id": 149,
+      "chemical": "Perchloric Acid <br>(concentration >60% by weight)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 150,
+      "chemical": "Perchloromethyl<br> Mercaptan",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 151,
+      "chemical": "Perchloryl Fluorid",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 152,
+      "chemical": "Peroxyacetic Acid <br>(concentration >60% Acetic Acid; <br>also called Peracetic Acid)",
+       "toxicity": "Highly Toxic",
+        "effects": ""
+    },
+    {
+    "id": 153,
+      "chemical": "Phosgene <br>(also called Carbonyl Chloride)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 154,
+      "chemical": "Phosphine <br>(Hydrogen Phosphide)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 155,
+      "chemical": "Phosphorus Oxychloride <br>(also called Phosphoryl Chloride)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 156,
+    "chemical": "Phosphorus Trichloride",
+    "toxicity": "Highly Toxic",
+     "effects": ""
+    },
+    { 
+    "id": 157,
+      "chemical": "Propargyl Bromide",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 158,
+      "chemical": "Propyl Nitrate",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 159,
+      "chemical": "Sarin",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+     "id": 160,
+      "chemical": "Selenium Hexafluoride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 161,
+      "chemical": "Stibine<br> (Antimony Hydride)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 162,
+    "chemical": "Sulfur Dixide <br>(liquid)",
+    "toxicity": "Highly Toxic",
+     "effects": ""
+    },
+    {
+    "id": 163,
+      "chemical": "Sulfur Pentafluoride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 164,
+      "chemical": "Sulfur Tetrafluoride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 165,
+      "chemical": "Sulfur Trioxide<br> (also called Sulfuric Anhydride)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+     "id": 165,
+      "chemical": "Sulfuric Anhydride <br>(also called Sulfur Trioxide)",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 166,
+      "chemical": "Tellurium Hexafluoride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 167,
+      "chemical": "Tetrafluoroethylene",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 168,
+      "chemical": "etrafluorohydrazine",
+      "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 169,
+      "chemical": "Tetramethyl Lead",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 170,
+      "chemical": "Thionyl Chloride",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 171,
+      "chemical": "Trichloro <br>(chloromethyl) Silane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 172,
+      "chemical": "Trichloro <br>(dichlorophenyl) Silane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 173,
+      "chemical": "Trichlorosilane",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 174,
+      "chemical": "Trifluorochloroethylene",
+      "toxicity": "Highly Toxic",
+       "effects": ""
+    },
+    {
+    "id": 175,
+     "chemical": "Trimethyoxysilane",
+     "toxicity": "Highly Toxic",
+      "effects": ""
+    },
+    {
+    "id": 176,
+      "chemical": "Oxybenzone",
+      "toxicity": "Toxic",
+       "effects": "(missing) Reproductive issues, Carcinogenic"
+    },
+    {
+    "id": 177,
+      "chemical": "Deet",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic, Skin Irritant, Seizures"
+    },
+    {
+    "id": 178,
+      "chemical": "Acrylates",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic, Developemtal, Reproductive Irritant"
+    },
+    {
+    "id": 179,
+      "chemical": "Butylated Compounds",
+      "toxicity": "Toxic",
+      "effects": "Endocrine, Developmental, Reproductive Toxicity, Carcenogenic"
+    },
+    {
+    "id": 180,
+      "chemical": "Carbon Black",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic"
+    },
+    {
+    "id": 181,
+      "chemical": "Coal Tar",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic, Organ System Toxicity"
+    },
+    {
+    "id": 182,
+     "chemical": "ETHANOLAMINE COMPOUNDS <br>(MEA, DEA, TEA AND OTHERS)",
+     "toxicity": "Toxic",
+     "effects": "Carcinogenic, Legacy Pollutant, Organ System Toxicity"
+    },
+    {
+    "id": 183,
+      "chemical": "ETHOXYLATED INGREDIENTS",
+      "toxicity": "Toxic",
+       "effects": "Carcinogenic"
+    },
+    {
+    "id": 184,
+      "chemical": "HOMOSALATE",
+      "toxicity": "Toxic",
+      "effects": "Endocrine Disruptor"
+    },
+    {
+    "id": 185,
+      "chemical": "HYDROQUINONE",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic, Organ System Toxicity, Respiratory Irritant"
+    },
+    {
+    "id": 186,
+      "chemical": "METHYLISOTHIA-<br>ZOLINONE & <br>METHYLCHLOROI-<br>SOTHIAZOLINONE",
+      "toxicity": "Toxic",
+      "effects": "Respiratory Irritant, allergies and possible neurotoxicity"
+    },
+    {
+    "id": 187,
+      "chemical": "MICA",
+      "toxicity": "Toxic",
+      "effects": "Respiratory Irritant"
+    },
+    {
+    "id": 188,
+      "chemical": "Isopropyl acetone",
+      "toxicity": "Toxic",
+      "effects": "Respiratory, Occular Irritant. Possible Carcinogenic. Reproductive Harm"
+    },
+    { 
+    "id": 189,
+      "chemical": "methyl ethyl ketone",
+      "toxicity": "Toxic",
+      "effects": "Respiratory, Occular Irritant. Possible Carcinogenic. Reproductive Harm"
+    },
+    {
+    "id": 190,
+      "chemical": "n-methyl-pyrrolidone",
+      "toxicity": "Toxic",
+      "effects": "Respiratory, Occular Irritant. Possible Carcinogenic. Reproductive Harm"
+    },
+    {
+    "id": 191,
+      "chemical": "NANOMATERIALS",
+      "toxicity": "Unknown Toxicity",
+      "effects": "Unkown"
+    },
+    {
+    "id": 192,
+      "chemical": "NITROSAMINES",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic, Endocrine Disruption, Organ System Toxicity"
+    },
+    {
+    "id": 193,
+      "chemical": "OCTINOXATE",
+      "toxicity": "Toxic",
+      "effects": "Endocrine Disruptor, Reproductive & Developemtal Toxicity, Organ System Toxicity"
+    },
+    {
+    "id": 194,
+      "chemical": "Paba",
+      "toxicity": "Toxic",
+      "effects": "Endocrine Disruption, sensitization & Legacy Pollutant"
+    },
+    {
+    "id": 195,
+      "chemical": "PETROLATUM,<br>PETROLEUM JELLY",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic"
+    },
+    {
+    "id": 196,
+      "chemical": "PHENOXYETHANOL",
+      "toxicity": "Toxic",
+      "effects": "Allergies, nervous system effects"
+    },
+    {
+    "id": 197,
+      "chemical": "POLYACRYLAMIDE",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic, Reproductive & Developemtal Toxicity"
+    },
+    {
+    "id": 198,
+      "chemical": "POLYTETRAFLUOROETHYLENE <br>(PTFE, AKA TEFLON)",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic, Reproductive Toxicity, Endocrine Disruption & Legacy Pollutant"
+    },
+    {
+    "id": 199,
+      "chemical": "P-PHENYLENEDIAMINE",
+      "toxicity": "Toxic",
+      "effects": "Carcinogenic, Mutagenicity,Skin Irritant, Organ System Toxicity"
+    },
+    {
+    "id": 200,
+      "chemical": "DMDM hydantoin",
+      "toxicity": "Toxic",
+      "effects": "DMDM-h is a formaldehyde-releasing preservative (FRP) used to prevent microbes from growing in water-based products. It can be found in many personal care products"
+    },
+    {
+    "id": 201,
+      "chemical": "quaternium-15",
+      "toxicity": "Toxic",
+       "effects": "Allergin"
+    },
+    {
+    "id": 202,
+      "chemical": "diazolidinyl urea",
+      "toxicity": "Toxic",
+      "effects": "Diazolydinal urea releases the most formaldehyde of any formaldehyde-releasing preservative."
+    },
+    {
+    "id": 203,
+      "chemical": "polyoxymethylene urea",
+      "toxicity": "Toxic",
+      "effects": ""
+    },
+    {
+    "id": 204,
+      "chemical": "sodium <br>hydroxymethylglycinate",
+      "toxicity": "Toxic",
+      "effects": ""
+    },
+    {
+     "id": 205,
+      "chemical": "2-bromo-2-nitropropane-1,3-diol<br> (bromopol)",
+      "toxicity": "Toxic",
+      "effects": "Respiratory, Skin Irritant. Endocrine Disruptor."
+    },
+    {
+    "id": 206,
+      "chemical": "glyoxal",
+      "toxicity": "Toxic",
+      "effects": "Suspected of causing genetic dets. Resy, Occular Irritant, Organ System Toxicity"
+    },
+    {
+     "id": 207,
+      "chemical": "Ethylparaben",
+      "toxicity": "Toxic",
+      "effects": "Potential Endocrine Disruption"
+    },
+    {
+    "id": 208,
+      "chemical": "isobutylparaben",
+      "toxicity": "Toxic",
+      "effects": "exposure in rats has demonstrated increased uterus weight and uterine sensitivity to estrogen in the offspring."
+    },
+    {
+    "id": 209,
+      "chemical": "isopropylparaben",
+      "toxicity": "Toxic",
+      "effects": "Developmental Issues"
+
+    },
+    {
+    "id": 210,
+      "chemical": "Benzylate",
+      "toxicity": "Potentially Toxic",
+      "effects": "Skin Irritant"
+    },
+    {
+    "id": 211,
+      "chemical": "benzoic acid",
+      "toxicity": "Toxic",
+      "effects": "Organ System Toxicity"
+    },
+   {
+   "id": 212,
+     "chemical": "benzyl ester",
+     "toxicity": "Toxic",
+     "effects": "Skin, Occular, Respiratory Irritant, Mutagenic, Developmental delays & Low-birth weight in infants"
+   },
+   {
+   "id": 213,
+     "chemical": "Methylisothiazolinone<br> (MIT): 2-methyl-4-isothiazoline-3-one",
+     "toxicity": "Toxic",
+     "effects": "Skin Irritant, Organ System Toxicity, Neurotoxicity"
+   },
+   {
+  "id": 214,
+     "chemical": "Neolone 950 preservative,<br> MI, OriStar MIT & Microcare MT",
+     "toxicity": "Toxic",
+     "effects": ""
+   },
+   {
+    "id": 215,
+     "chemical": "Methylchloroisothiazolinone (CMIT):<br> 5-Chloro-2-methyl-4-isothiazolin-3-one & MCI",
+     "toxicity": "Toxic",
+     "effects": "Skin Irritant"
+   },
+   {
+   "id": 216,
+     "chemical": "Phenoxyethanol",
+     "toxicity": "Toxic",
+     "effects": "Skin exposure to phenoxyethanol has been linked to allergic reactions ranging from eczema and hives to anaphylaxis. Acute nervous system effects have been seen in infants who have had oral exposure to phenoxyethanol"
+   },
+   {
+   "id": 217,
+     "chemical": "Euxyl K 400 <br>(mixture of Phenoxyethanol <br>& 1,2-dibromo-2,4-dicyanobutane)",
+     "toxicity": "Toxic",
+     "effects": "Some people develop allergic sensitivities."
+   },
+   {
+   "id": 218,
+     "chemical": "PhE. <br>Triclosan (TSC)",
+     "toxicity": "Toxic",
+     "effects": "Potential endocrine Disruptor. Skin, Occular & Respiratory Irritant."
+   },
+   {
+   "id": 219,
+     "chemical": "triclocarban <br>(TCC)",
+     "toxicity": "Toxic",
+     "effects": "Potential endocrine disruptor, Skin, Occular & Respiratory Irritant"
+   },
+   { 
+   "id": 220,
+     "chemical": "benzyl alcohol",
+     "toxicity": "Toxic",
+     "effects": "Skin, Occular, Respiratory Irritant"
+   },
+   {
+   "id": 221,
+     "chemical": "benzalkonium chloride",
+     "toxicity": "Toxic",
+     "effects": "Respiratory, gastrointestinal, Occular Irritant"
+   },
+   {
+   "id": 222,
+     "chemical": "citric acid",
+     "toxicity": "Toxic",
+     "effects": "Short-term exposure to citric acid is irritating to the eyes, and skin and the respiratory tract. Long-term (often occupational) exposure may cause erosion of the teeth. It has caused cough in acute inhalation studies of guinea pigs, ataxia, and respiratory depression in mice."
+   },
+   {
+    "id": 223,
+     "chemical": "dehydroacetic acid",
+     "toxicity": "Toxic",
+     "effects": "Dehydroacetic acid can lead to seizures in monkeys[45] and severe hemorrhage in multiple organs in rats."
+   },
+   {
+    "id": 224,
+     "chemical": "essential oils",
+     "toxicity": "Toxic",
+     "effects": "Essential oils may contain naturally occurring constituents, ingredients such as pulegone or methyleugenol that may be carcinogenic and alter endocrine functioning."
+   },
+   {
+    "id": 225,
+     "chemical": "grapefruit seed <br>extract",
+     "toxicity": "Toxic",
+    "effects": "Grapeseed extract is a low concern on its own, but may also be an ineffective preservative. It has been found that sometimes GSE is preserved with other preservatives, which lead to both its efficacy and health concerns: benzethonium chloride, methylparaben (see parabens) and triclosan (see below)."
+   },
+   { 
+    "id": 226,
+     "chemical": "lactic acid",
+     "toxicity": "Toxic",
+     "effects": "Lactic acid irritates the skin and the respiratory tract, and is corrosive to the eyes and to the digestive tract when swallowed."
+   },
+   {
+    "id": 227,
+     "chemical": "levulinic acid",
+     "toxicity": "Toxic",
+     "effects": "Is known to be a moderate skin and eye irritant and is harmful when ingested."
+   },
+   { 
+    "id": 228,
+     "chemical": "potassium sorbate",
+     "toxicity": "Toxic",
+     "effects": "Skin, Occular Irritant"
+   },
+   {
+    "id": 229,
+     "chemical": "sodium dehydroacetate",
+     "toxicity": "Toxic",
+     "effects": "DHA-S lead to hemorrhage in multiple organs and prolongation of blood coagulation factors in a study of rats."
+   },
+   {
+    "id": 230,
+     "chemical": "Sodium metabisulfite",
+     "toxicity": "Toxic",
+     "effects": "Skin Irritant, Studies have found that inhaled SMB causes may exacerbate asthma symptoms."
+   },
+   {
+    "id": 231,
+     "chemical": "sodium salicylate",
+     "toxicity": "Potentially Toxic",
+     "effects": "Gastrointestinal, Responses irritant, Anemia"
+   },
+   {
+    "id": 233,
+     "chemical": "sorbic acid",
+     "toxicity": "Toxic",
+     "effects": "Skin Irritant, Edema"
+   },
+   { 
+    "id": 234,
+     "chemical": "vitamin E",
+     "toxicity": " Potentially Toxic",
+     "effects": "One or more animal studies show tumor formation at high doses. Dietary supplementation with vitamin E has been shown to significantly increase the risk of prostate cancer among healthy men."
+   },
+   { 
+    "id": 235,
+     "chemical": "zinc pyrithione",
+     "toxicity": "Toxic",
+     "effects": "Studies have found that Zpt induced significant developmental malformations on fish larvae."
+   },
+   {
+    "id": 236,
+     "chemical": "RESORCINOL",
+     "toxicity": "Toxic",
+    "effects": "Skin, Occular irritant, skin sensitizer, organ system toxicity, & possible endocrine disruptor."
+   },
+   { 
+   "id": 237,
+     "chemical": "RETINOL",
+     "toxicity": "Toxic",
+     "effects": "Carcinogenic, Developmental & reproductive toxicity"
+   },
+   {
+    "id": 238,
+     "chemical": "vitamin A",
+     "toxicity": "Toxic",
+     "effects": "Carcenogenic, Developmental & reproductive toxicity"
+   },
+   {
+    "id": 239,
+     "chemical": "retinyl acetate",
+     "toxicity": "Toxic",
+     "effects": "Carcinogenic, Developmental & reproductive toxicity"
+   },
+   {
+    "id": 240,
+     "chemical": "retinyl palmitate",
+     "toxicity": "Toxic",
+     "effects": "Carcinogenic, Developmental & reproductive toxicity"
+   },
+   { 
+    "id": 241,
+     "chemical": "all-trans retinoic acid",
+     "toxicity": "Toxic",
+     "effects": "Carcinogenic, Developmental & reproductive toxicity"
+   },
+   {
+    "id": 242,
+     "chemical": "tretinoin",
+     "toxicity": "Toxic",
+     "effects": "Carcinogenic, Developmental & reproductive toxicity"
+   },
+   {
+    "id": 243,
+     "chemical": "TALC",
+     "toxicity": "Toxic",
+     "effects": "Irritation, cancer, organ system toxicity"
+   },
+   {
+    "id": 244,
+     "chemical": "TITANIUM DIOXIDE",
+     "toxicity": "Toxic",
+     "effects": "The International Agency for Research on Cancer designates TiO2 as a carcinogen, largely due to studies that have found increased lung cancers due to inhalation exposure in animals."
+   },
+   {
+    "id": 245,
+     "chemical": "TOLUENE",
+     "toxicity": "Toxic",
+     "effects": "Developmental and reproductive toxicity, organ system toxicity, irritation"  
+
+   }
+     ]

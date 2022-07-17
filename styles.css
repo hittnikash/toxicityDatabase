@@ -23,7 +23,6 @@ h1 {
   .instant-search,
   .instant-search__input {
     font-family: sans-serif;
-   
   }
   
   .instant-search,
@@ -84,35 +83,35 @@ h1 {
   }
   
   #myInput {
-    background-repeat: no-repeat; /* Do not repeat the icon image */
-    width: 90%; /* Full-width */
-    font-size: 16px; /* Increase font-size */
-    padding: 12px 20px 12px 40px; /* Add some padding */
-    border: 1px solid #ddd; /* Add a grey border */
-    margin-bottom: 12px; /* Add some space below the input */
+    background-repeat: no-repeat; 
+    width: 90%; 
+    font-size: 16px; 
+    padding: 12px 20px 12px 40px; 
+    border: 1px solid #ddd;
+    margin-bottom: 12px;
     margin-top: 10%;
     margin-left: 5%;
   }
   
-  #myTable {
-    border-collapse: collapse; /* Collapse borders */
-    width: 100%; /* Full-width */
-    border: 1px solid #ddd; /* Add a grey border */
-    font-size: 18px; /* Increase font-size */
+  #myTable  {
+    border-collapse: collapse; 
+    width: 100%; 
+    border: 1px solid #ddd; 
+    font-size: 18px; 
     background-color: #fff;
-
   }
   
   #myTable th, #myTable td {
     text-align: left; /* Left-align text */
-    padding: 10px; /* Add padding */
-    
+    padding: 10px;   
+    max-width: 70vw;
   }
   
   #myTable tr {
     /* Add a bottom border to all table rows */
     border-bottom: 1px solid #ddd;
-  
+    /* max-width: 50px; */
+   
   }
   
   #myTable tr.header, #myTable tr:hover {
