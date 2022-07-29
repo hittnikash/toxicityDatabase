@@ -7,9 +7,9 @@
    },
    {
    "id": 2,
-      "chemical": "Meow",
+      "chemical": "BENZYL ACETATE",
       "toxicity": "Toxic",
-      "effects": "K100"
+      "effects": "Linked to pancreatic cancer; easily absorbs into skin causing quick systemic effects; animal studies show hyperemia of the lungs; <br>possible gastrointestinal, liver, & respiratory toxicant; possible neurotoxin."
      },
     {
    "id":3,
@@ -428,175 +428,177 @@
     "id": 72,
       "chemical": "1-Chloro-2,4-Dinitrobenzene",
       "toxicity": "Highly Toxic",
-      "effects": ""
+      "effects": "Respiratory, Skin, Occular &gastrointestinal irriatant"
     },
     {
     "id": 73,
       "chemical": "Chloromethyl <br>Methyl Ether",
       "toxicity": "Highly Toxic",
-      "effects": ""
+      "effects": "Carcinogenic, Respiratory, Skin & Occular irritant"
     },
     {
     "id": 74,
       "chemical": "Chloropicrin",
       "toxicity": "Highly Toxic",
-      "effects": ""
+      "effects": "Respiratory, Skin, Occular & gastrointestinal irritant"
     },
     {
     "id": 75,
       "chemical": "Chloropicrin &<br> Methyl Bromide mixture",
       "toxicity": "Highly Toxic",
-      "effects": ""
+      "effects":  "Respiratory, Skin irritant, Legacy Pollutant"
     },
     {
     "id": 76,
       "chemical": "Chloropicrin &<br> Methyl Chloride mixture",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, Skin, Occular irritant, Legacy Pollutant"
     },
     {
     "id": 77,
       "chemical": "Cumene Hydroperoxide",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Mutagenic, Respiratory, Skin, Occular irritant"
     },
     {
     "id": 78,
       "chemical": "Cyanogen",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, Skin, Occular & gastrointestinal irritant "
+       
     },
     {
     "id": 79,
       "chemical": "Cyanogen Chloride",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, Occular, Skin & gastrointestinal irritant "
     },
     {
     "id": 80,
       "chemical": "Cyanuric Fluoride",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, Skin, Occular irritant"
     },
     {
     "id": 81,
       "chemical": "Diacetyl Peroxide <br>(Concentration >70%)",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Skin, Occular Irritant, Enviromental Toxin"
     },
     {
     "id": 82,
       "chemical": "Diazomethane",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Carcinogenic, Skin, Occular, respiratory irritant"
     },
     {
     "id": 83,
      "chemical": "Dibenzoyl Peroxide",
      "toxicity": "Highly Toxic",
-      "effects": ""
+      "effects": "Skin, Occular and Respiratory irritant"
     },
     {
     "id": 84,
       "chemical": "Diborane",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Possible Carcinogenic, Skin, Occular, respiratory irritant"
     },
     {
     "id": 85,
       "chemical": "Dibutyl Peroxide<br>(Tertiary)",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Gastrointestinal, Skin, Occular irritant. Enviromental Toxin."
     },
     {
     "id": 86,
       "chemical": "Dichloro Acetylene",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, gastointestinal & Occular irritant."
     },
     {
     "id": 87,
       "chemical": "Dichlorosilane",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Skin, Occular, Respiratory irritant"
     },
     {
     "id": 88,
       "chemical": "Diethylzinc",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, Skin, Occular & gastrointestinal irritant"
     },
     {
     "id": 89,
       "chemical": "Diisopropyl <br>Peroxydicarbonate",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, Skin & Occular irritant"
     },
     {
     "id": 90,
       "chemical": "Dilaluroyl Peroxide",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Occular, Skin & gastrointestinal irritant"
     },
     {
     "id": 91,
       "chemical": "Dimethyldichlorosilane",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, gastrointestinal, Skin & Occular irritant"
     },
     {
     "id": 92,
       "chemical": "Dimethylamine, Anhydrous",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Occular, Skin, Respiratory & gastrointestinal irritant"
     },
     {
     "id": 93,
       "chemical": "2,4-Dinitroaniline",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, gastrointestinal, Skin, Occular irritant. Legacy Pollutant."
     },
     {
     "id": 94,
       "chemical": "Ethyl Methyl Ketone Peroxide <br>(also Methyl Ethyl Ketone Peroxide; <br>concentration >60%)",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Occular, Skin, Respiratory, gastrointestinal irritant"
     },
     {
     "id": 95,
       "chemical": "Ethyl Nitrite",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Respiratory, Occular, Skin irritant"
     },
     {
     "id": 96,
      "chemical": "Ethylamine",
      "toxicity": "Highly Toxic",
-      "effects": ""
+      "effects": "Respiratory, Skin, Occular irritant"
     },
     {
     "id": 97,
      "chemical": "Ethylene Fluorohydrin",
      "toxicity": "Highly Toxic",
-      "effects": ""
+      "effects": "Can effect you when breathed in. Can cause headache, nausea, vomiting, abdominal pain, salivation, muscle twiching, weakness & convulsions. May also effect the heart causing irregular heartbeat. May damage the liver & kidneys as well as the nervous system causing numbness & weakness in the hands or feet."
     },
     {
    "id": 98,
      "chemical": "Ethylene Oxide",
      "toxicity": "Highly Toxic",
-      "effects": ""
+      "effects": "Carcinogenic, Respiratory, gastrointestinal irritant"
     },
     {
     "id": 99,
       "chemical": "Ethyleneimine",
-      "toxicity": "Highly Toxic",
-       "effects": ""
+      "toxicity": "Extremely Toxic",
+       "effects": "Ethyleneimine is classified as extremely toxic with a probable oral lethal dose of 5-50 mg/kg which is approximately 7 drops to 1 teaspoonful for a 70 kg (150 lb.) person. Ethyleneimine gives inadequate warning when over-exposure is by inhalation or skin absorption. It is a severe blistering agent, causing third degree chemical burns of the skin. Also, it has a corrosive effect on mucous membranes and may cause scarring of the esophagus. It is corrosive to eye tissue and may cause permanent corneal opacity and conjunctival scarring. Severe exposure may result in overwhelming pulmonary edema. Renal damage has been described. Hemorrhagic congestion of all internal organs has been observed. (EPA, 1998)"
+       
     },
     {
     "id": 100,
       "chemical": "Fluorine",
       "toxicity": "Highly Toxic",
-       "effects": ""
+       "effects": "Carcinogenic, Respiratory, Neurologic, Hepatic, Skin, muscleskeletal, Endocrine & reproductive hazzard. At the time of this review, no data were available to assess the mutagenic or genotoxic potential of fluorine."
     },
     {
     "id": 101,
@@ -1468,6 +1470,11 @@
      "chemical": "TOLUENE",
      "toxicity": "Toxic",
      "effects": "Developmental and reproductive toxicity, organ system toxicity, irritation"  
-
+   },
+   {
+     "id": 246,
+     "chemical": "ALUMINUM ZIRCONIUM",
+     "toxicity" : "Toxic",
+     "effects" : "Health concerns: Linked to the development of Alzheimer’s Disease; <br> may be linked to breast cancer; <br>probable neurotoxin; possible nervous system, respiratory, and developmental toxin."
    }
      ]
